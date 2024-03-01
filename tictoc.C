@@ -6,11 +6,9 @@ void chnce(char c);
 void disp();
 void check();
 void check2();
-
 char arr[3][3];
 char c;
 int check1;
-
 int main()
 {
     int i, j;
